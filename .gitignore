@@ -1,0 +1,14 @@
+# Eclipse metadata to ignore
+.settings/
+
+# Compiled binaries and object files
+Debug/
+Release/
+*.o
+*.out
+*.exe
+*.app
+
+# Local history and locks
+.localhistory/
+.recommenders/
